@@ -1,0 +1,13 @@
+{
+    "data": {
+        "locality": "bruxelles",
+        "number_bedrooms": 3,
+        "living_area": 120,
+        "kitchen_type": "SEMI-EQUIPPED",
+        "furnished": 0,
+        "terrace_surface": 9,
+        "garden_surface": 0,
+        "swimming_pool": 0,
+        "property_type": "APARTMENT"
+        }
+    }
